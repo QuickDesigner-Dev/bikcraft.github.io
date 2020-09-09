@@ -1,2 +1,1 @@
-
-# https-quickdesigner-dev.github.io-bikcraft.github.io-
+# https-quickdesigner-dev.github.io-bikcraft.github.io
